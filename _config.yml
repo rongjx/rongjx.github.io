@@ -1,10 +1,10 @@
 # Site settings
 title: BY Blog
-SEOTitle: 北辰的博客 
+SEOTitle: wind的博客 
 header-img: img/post-bg-desk.jpg
 email: 191176039@qq.com
 description: "Every failure is leading towards success."
-keyword: "北辰, rongjx"
+keyword: "wind, rongjx"
 url: "http://rongjx.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/rongjx/rongjx.github.io.git" # you code repository
